@@ -16,10 +16,10 @@ function setup() {
 
 function preload() {
   soundFormats('wav');
-  
+
   // load sample sounds
-  img = loadImage("assets/docomo-emoji/0157.png");
-  snd = loadSound("assets/nanoloop-samples/NL23_LR13.wav");
+  img = loadImage("template-assets/docomo-emoji/0157.png");
+  snd = loadSound("template-assets/nanoloop-samples/NL23_LR13.wav");
 
 }
 
