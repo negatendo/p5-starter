@@ -1,9 +1,6 @@
-My personal p5.js sketching starter template circa 2017. For more information about p5.js visit https://p5js.org/
+# negatendo-p5-starter
 
-Includes resources from:
+This is my personal p5.js sketching starter template that I loaded-up with some assets I like and what not. Look at js/sketch.js to get started.
 
-http://little-scale.blogspot.com/2011/07/nanoloop-23-sample-pack.html
-
-https://github.com/Crissov/imodji
-
+[More information about p5.js](https://p5js.org/)
 
