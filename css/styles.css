@@ -8,11 +8,9 @@ div#container {
   display: table;
   text-align: center;
   width: 100%;
-  border-spacing: 10px;
+  border-spacing: 0px;
   border-collapse: separate;
   color: black;
   background-color: white;
   height: 100%;
-  padding: 40px 0;
-  margin: -40px 0;
 }
