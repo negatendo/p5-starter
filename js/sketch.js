@@ -7,7 +7,7 @@ function setup() {
   var canvas = createCanvas(windowWidth,windowHeight);
   // utilize html container for placement
   canvas.parent('container');
-  background('black');
+  background('white');
 }
 
 // use this to keep it fullscreen... er, fullbrowser
